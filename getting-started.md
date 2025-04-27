@@ -3,7 +3,7 @@
 ## Load Window
 ### Latest version <Badge type="info">Recommended</Badge>
 ```lua
-local WindUI = loadstring(game:HttpGet("Coming Soon"))()
+local NyraUI = loadstring(game:HttpGet("Coming Soon"))()
 ```
 
 ### Selected version
