@@ -1,8 +1,5 @@
 # Slider
 
-On this page
-[[toc]]
-
 ## Slider
 ### Create Slider
 ```lua
