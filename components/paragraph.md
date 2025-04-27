@@ -1,4 +1,4 @@
-# Paragraph
+# Paragraphs
 
 ## Paragraph
 
