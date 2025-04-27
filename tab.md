@@ -1,7 +1,4 @@
-# Tab
-
-On this page
-[[toc]]
+# Tabs
 
 ## Tab
 ### Create Tab
