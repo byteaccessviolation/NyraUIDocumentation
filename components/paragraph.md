@@ -1,8 +1,5 @@
 # Paragraph
 
-On this page
-[[toc]]
-
 ## Paragraph
 
 ### Create Paragraph
