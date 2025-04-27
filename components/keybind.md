@@ -1,8 +1,5 @@
 # Keybind
 
-On this page
-[[toc]]
-
 ## Keybind
 ### Create Keybind
 ```lua
