@@ -1,11 +1,8 @@
-# Themes
-
-On this page
-> [[toc]]
+# Themess
 
 ## Load own theme
 ```lua
-WindUI:AddTheme({
+NyraUI:AddTheme({
     Name = "Halloween",
     
     Accent = "#331400",
@@ -18,5 +15,5 @@ WindUI:AddTheme({
 
 ## Use your theme
 ```lua
-WindUI:SetTheme("Halloween")
+NyraUI:SetTheme("Halloween")
 ```
