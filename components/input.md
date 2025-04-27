@@ -1,4 +1,4 @@
-# Input
+# Inputs
 
 ## Input
 ### Create Input
