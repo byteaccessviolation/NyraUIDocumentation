@@ -1,8 +1,5 @@
 # Code
 
-On this page
-[[toc]]
-
 ## Code
 ### Create Code
 ```lua
