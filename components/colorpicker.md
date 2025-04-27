@@ -1,8 +1,5 @@
 # Colorpicker
 
-On this page
-[[toc]]
-
 ## Colorpicker
 ### Create Colorpicker
 ```lua
