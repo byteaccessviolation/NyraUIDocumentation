@@ -1,8 +1,5 @@
 # Button
 
-On this page
-[[toc]]
-
 ## Button
 ### Create Button
 ```lua
