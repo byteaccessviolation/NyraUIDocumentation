@@ -1,8 +1,5 @@
 # Dropdown
 
-On this page
-[[toc]]
-
 ## Dropdown
 ### Create Dropdown
 ```lua
