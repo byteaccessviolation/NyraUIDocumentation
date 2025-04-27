@@ -1,8 +1,5 @@
 # Section
 
-On this page
-[[toc]]
-
 ## Section
 
 ### Create Section
