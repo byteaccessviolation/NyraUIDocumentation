@@ -1,4 +1,4 @@
-# Section
+# Sections
 
 ## Section
 
