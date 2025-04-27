@@ -1,8 +1,5 @@
 # Input
 
-On this page
-[[toc]]
-
 ## Input
 ### Create Input
 ```lua
