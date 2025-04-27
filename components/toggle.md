@@ -1,4 +1,4 @@
-# Toggle
+# Toggles
 
 ## Toggle
 ### Create Toggle
