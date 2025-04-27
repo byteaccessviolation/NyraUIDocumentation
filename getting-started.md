@@ -28,7 +28,7 @@ local Window = WindUI:CreateWindow({
     KeySystem = { -- Creates key system
         Key = "1234", -- key
         Note = "The Key is 1234", -- Note
-        URL = "https://github.com/Footagesus/WindUI", -- URL To get key (example: Discord)
+        URL = "https://discord.gg/rYp4rVQNUE", -- URL To get key (example: Discord)
         SaveKey = true, -- Saves the key in the folder specified above
     }, 
     Transparent = true,-- UI Transparency
