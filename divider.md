@@ -1,4 +1,4 @@
-# Divider
+# Dividers
 
 ## Divider
 ### Create Divider (for tabs)
