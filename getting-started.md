@@ -1,7 +1,4 @@
-# Getting Started
-
-On this page
-> [[toc]]
+# Getting Started using NyraUI
 
 ## Load Window
 ### Latest version <Badge type="info">Recommended</Badge>
