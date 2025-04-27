@@ -1,8 +1,5 @@
 # Toggle
 
-On this page
-[[toc]]
-
 ## Toggle
 ### Create Toggle
 ```lua
