@@ -6,13 +6,13 @@ On this page
 ## Load Window
 ### Latest version <Badge type="info">Recommended</Badge>
 ```lua
-local WindUI = loadstring(game:HttpGet("https://tree-hub.vercel.app/api/UI/WindUI"))()
+local WindUI = loadstring(game:HttpGet("Coming Soon"))()
 ```
 
 ### Selected version
 ```lua
 local Version = "1.4.0"
-local WindUI = loadstring(game:HttpGet("https://tree-hub.vercel.app/api/UI/WindUI/" .. Version))()
+local NyraUI = loadstring(game:HttpGet("Coming Soon" .. Version))()
 ```
 
 ## Window
